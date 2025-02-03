@@ -148,7 +148,7 @@ public class Account {
      * @return the Account's balance.
      */
     public double getAccountBalance() {
-        System.out.println("The account balance was returnerd"); // logging
+        System.out.println("The account balance was returned"); // logging
         return getBalance();
     }
 
